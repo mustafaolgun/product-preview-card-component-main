@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor-Solution-Page] (https://www.frontendmentor.io/solutions/product-preview-card-component-main-build-with-bootstrap-BUxV675rh8)
-- Live Site URL: [Github-Page] (https://mustafaolgun.github.io/product-preview-card-component-main/)
+- Solution URL: [Frontendmentor.io](https://www.frontendmentor.io/solutions/product-preview-card-component-main-build-with-bootstrap-BUxV675rh8)
+- Live Site URL: [Live Repository Page](https://mustafaolgun.github.io/product-preview-card-component-main/)
 
 ## My process
 
